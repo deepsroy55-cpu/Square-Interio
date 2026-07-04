@@ -1,0 +1,13 @@
+{
+  "name": "square-interio",
+  "version": "1.0.0",
+  "description": "Square Interio landing page with premium contact form",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.5"
+  }
+}

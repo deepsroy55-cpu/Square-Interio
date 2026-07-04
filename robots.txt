@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://squareinterio.com/sitemap.xml
